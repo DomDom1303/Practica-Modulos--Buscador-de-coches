@@ -2,7 +2,7 @@
 
 Caracteristicas:
 
-- Buscador de autos con filtros para los resultados.
+-Buscador de autos con filtros para los resultados.
 
 -En caso de no existir el coche con los filtros puestros, manda mensaje de error.
 
